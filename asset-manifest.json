@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/css/main.2fd7509d.chunk.css",
+    "main.js": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/main.962a62a1.chunk.js",
+    "main.js.map": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/main.962a62a1.chunk.js.map",
+    "runtime-main.js": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/runtime-main.bac550bb.js",
+    "runtime-main.js.map": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/runtime-main.bac550bb.js.map",
+    "static/js/2.c4e48823.chunk.js": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/2.c4e48823.chunk.js",
+    "static/js/2.c4e48823.chunk.js.map": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/2.c4e48823.chunk.js.map",
+    "index.html": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/index.html",
+    "static/css/main.2fd7509d.chunk.css.map": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/css/main.2fd7509d.chunk.css.map",
+    "static/js/2.c4e48823.chunk.js.LICENSE.txt": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/js/2.c4e48823.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.ec8a413d.svg": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/media/left-arrow.ec8a413d.svg",
+    "static/media/move.aaf80333.svg": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/media/move.aaf80333.svg",
+    "static/media/right-arrow.f56c2e28.svg": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/media/right-arrow.f56c2e28.svg",
+    "static/media/trash.c5389bbd.svg": "//satabdi-paul.github.io/TODDLE-Frontend-Task---Curriculum-Authoring-Tool/static/media/trash.c5389bbd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bac550bb.js",
+    "static/js/2.c4e48823.chunk.js",
+    "static/css/main.2fd7509d.chunk.css",
+    "static/js/main.962a62a1.chunk.js"
+  ]
+}
